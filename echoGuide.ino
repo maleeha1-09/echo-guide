@@ -1,4 +1,5 @@
 
+#include <ESP8266WiFi.h>
 
 const int trigPin = 9;    // Trigger pin
 const int echoPin = 10;   // Echo pin
